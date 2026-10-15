@@ -29,7 +29,6 @@ export const VI: Record<string, string> = {
  "Educational website funded by the EU for SMEs in Varsinais-Suomi.": "Website giáo dục do EU tài trợ dành cho các doanh nghiệp vừa và nhỏ ở vùng Tây Nam Phần Lan.",
  "UI Design · UX Research · Developer Collaboration · A/B Testing · Team (4 Members)": "Thiết kế UI · Nghiên cứu UX · Phối hợp với lập trình viên · A/B Testing · Nhóm (4 thành viên)",
  "VAlkuttava Website - Design an AI educational website": "VAlkuttava Website - Thiết kế website giáo dục về AI",
- "Valkuttava Website title above the EU flag on a dark navy background": "Tiêu đề Valkuttava Website phía trên lá cờ EU trên nền xanh navy đậm",
  "The VAlkuttava website homepage: a dark blue header with the menu, and a photo of five people laughing around a laptop under the greeting Tervetuloa VAlkuttavaan": "Trang chủ website VAlkuttava: phần đầu trang màu xanh đậm với menu, và ảnh năm người đang cười quanh một chiếc laptop bên dưới lời chào Tervetuloa VAlkuttavaan",
  "VALkuttava is an EU-funded project aimed at helping SMEs in Southwest Finland better understand AI and explore how it could be implemented in their businesses. Our goal was to design and develop a complete website from scratch, creating an accessible place for businesses to learn more about the project and its resources.": "VAlkuttava là một dự án do EU tài trợ nhằm giúp các doanh nghiệp vừa và nhỏ ở Tây Nam Phần Lan hiểu rõ hơn về AI và khám phá cách ứng dụng AI vào hoạt động kinh doanh. Mục tiêu của chúng tôi là thiết kế và phát triển một website hoàn chỉnh từ đầu, tạo ra nơi dễ tiếp cận để doanh nghiệp tìm hiểu thêm về dự án và các tài nguyên của dự án.",
  "Getting Started": "Bắt đầu",
@@ -254,5 +253,8 @@ export const VI: Record<string, string> = {
  "CLOSE ✕": "ĐÓNG ✕",
  "Show picture": "Xem ảnh",
  "Language": "Ngôn ngữ",
- "PLAY · CONTENT · MEDIA": "VUI CHƠI · NỘI DUNG · TRUYỀN THÔNG"
+ "PLAY · CONTENT · MEDIA": "VUI CHƠI · NỘI DUNG · TRUYỀN THÔNG",
+ "VAlkuttava wordmark inside a ring of yellow stars, next to two pages of the website design shown in browser windows on a dark blue background": "Chữ VAlkuttava trong một vòng tròn các ngôi sao vàng, bên cạnh hai trang thiết kế website hiển thị trong các cửa sổ trình duyệt trên nền xanh đậm",
+ "The live VAlkuttava website homepage.": "Trang chủ của website VAlkuttava đang hoạt động.",
+ "The name VAlkuttava in the middle of a ring of yellow stars on a dark blue background": "Tên VAlkuttava ở giữa một vòng tròn các ngôi sao vàng trên nền xanh đậm"
 }

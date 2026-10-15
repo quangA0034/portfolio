@@ -1,5 +1,6 @@
 // Auto-generated from the previous portfolio. Edit freely.
 import type { Project } from '../types'
+import imgValkLive from '../assets/projects/valkuttava-website-live.jpg'
 
 import img1 from '../assets/projects/social-service-app-card.jpg'
 import img2 from '../assets/projects/social-service-app-01.jpg'
@@ -212,16 +213,16 @@ export const PROJECTS: Project[] = [
     description: "Educational website funded by the EU for SMEs in Varsinais-Suomi.",
     role: "UI Design · UX Research · Developer Collaboration · A/B Testing · Team (4 Members)",
     image: img11,
-    imageAlt: "Valkuttava Website title above the EU flag on a dark navy background",
+    imageAlt: "The name VAlkuttava in the middle of a ring of yellow stars on a dark blue background",
     headline: "VAlkuttava Website - Design an AI educational website",
     tagline: "Educational website funded by the EU for SMEs in Varsinais-Suomi.",
     hero: {
       src: img12,
-      alt: "The VAlkuttava website homepage: a dark blue header with the menu, and a photo of five people laughing around a laptop under the greeting Tervetuloa VAlkuttavaan",
-      w: 1690,
-      h: 891,
+      alt: "VAlkuttava wordmark inside a ring of yellow stars, next to two pages of the website design shown in browser windows on a dark blue background",
+      w: 1800,
+      h: 900,
       fit: "cover",
-      ratio: "1690/891",
+      ratio: "1800/900",
     },
     sections: [
       {
@@ -231,6 +232,19 @@ export const PROJECTS: Project[] = [
           {
             type: "text",
             html: "VALkuttava is an EU-funded project aimed at helping SMEs in Southwest Finland better understand AI and explore how it could be implemented in their businesses. Our goal was to design and develop a complete website from scratch, creating an accessible place for businesses to learn more about the project and its resources.",
+          },
+          {
+            type: "images",
+            flush: true,
+            images: [
+              {
+                src: imgValkLive,
+                alt: "The VAlkuttava website homepage: a dark blue header with the menu, and a photo of five people laughing around a laptop under the greeting Tervetuloa VAlkuttavaan",
+                caption: "The live VAlkuttava website homepage.",
+                w: 1690,
+                h: 891,
+              },
+            ],
           },
         ],
       },
